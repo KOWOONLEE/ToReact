@@ -1,0 +1,13 @@
+{
+  "decimal": "decimal",
+  "emptyTable": "emptyTable",
+  "info": "info",
+  "infoEmpty": "infoEmpty",
+  "infoFiltered": "infoFiltered",
+  "infoPostFix": "infoPostFix",
+  "thousands": "thousands",
+  "lengthMenu": "lengthMenu",
+  "processing": "processing",
+  "search": "search",
+  "zeroRecords": "zeroRecords"
+}
